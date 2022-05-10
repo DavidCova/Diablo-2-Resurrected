@@ -37,27 +37,27 @@
 ## Upgrading
 |Ingredients|Result|
 |-----------|------|
-|3 of the same Rune only works for the most common Runes: El, Eld, Tir, Nef, Eth, Ith, Tal, Ral, Ort|	1 of the next Rune 3 El's give you 1 Eld.... 3 Eld's give you 1 Tir...in the order listed to the left.|
-|3 Thul Runes + 1 Chipped Topaz		| Amn Rune|
-|3 Amn Runes + 1 Chipped Amethyst  | Sol Rune|
-|3 Sol Runes + 1 Chipped Sapphire  | Shael Rune|
-|3 Shael Runes + 1 Chipped Ruby	  |	Dol Rune|
-|3 Dol Runes + 1 Chipped Emerald	  |	Hel Rune|
-|3 Hel Runes + 1 Chipped Diamond	  |	Io Rune|
-|3 Io Runes + 1 Flawed Topaz	      |	Lum Rune|
-|3 Lum Runes + 1 Flawed Amethyst	  |	Ko Rune|
-|3 Ko Runes + 1 Flawed Sapphire	  |	Fal Rune|
-|3 Fal Runes + 1 Flawed Ruby	      |	Lem Rune|
-|3 Lem Runes + 1 Flawed Emerald	  |	Pul Rune|
-|2 Pul Runes + 1 Flawed Diamond	  |	Um Rune|
-|2 Um Runes + 1 Topaz	            |	Mal Rune|
-|2 Mal Runes + 1 Amethyst	        |	Ist Rune|
-|2 Ist Runes + 1 Sapphire	        |	Gul Rune|
-|2 Gul Runes + 1 Ruby	            |	Vex Rune|
-|2 Vex Runes + 1 Emerald	          |	Ohm Rune|
-|2 Ohm Runes + 1 Diamond	          |	Lo Rune|
-|2 Lo Runes + 1 Flawless Topaz	    |	Sur Rune|
-|2 Sur Runes + 1 Flawless Amethyst	|	Ber Rune|
-|2 Ber Runes + 1 Flawless Sapphire |	Jah Rune|
-|2 Jah Runes + 1 Flawless Ruby	    |	Cham Rune|
-|2 Cham Runes + 1 Flawless Emerald	|	Zod Rune|
+| 3 of the same Rune El, Eld, Tir, Nef, Eth, Ith, Tal, Ral, Ort |	1 of the next Rune |
+| 3 Thul Runes + 1 Chipped Topaz		                            | Amn Rune|
+| 3 Amn Runes + 1 Chipped Amethyst                              | Sol Rune|
+| 3 Sol Runes + 1 Chipped Sapphire                              | Shael Rune|
+| 3 Shael Runes + 1 Chipped Ruby	                              |	Dol Rune|
+| 3 Dol Runes + 1 Chipped Emerald	  |	Hel Rune|
+| 3 Hel Runes + 1 Chipped Diamond	  |	Io Rune|
+| 3 Io Runes + 1 Flawed Topaz	      |	Lum Rune|
+| 3 Lum Runes + 1 Flawed Amethyst	  |	Ko Rune|
+| 3 Ko Runes + 1 Flawed Sapphire	  |	Fal Rune|
+| 3 Fal Runes + 1 Flawed Ruby	      |	Lem Rune|
+| 3 Lem Runes + 1 Flawed Emerald	  |	Pul Rune|
+| 2 Pul Runes + 1 Flawed Diamond	  |	Um Rune|
+| 2 Um Runes + 1 Topaz	            |	Mal Rune|
+| 2 Mal Runes + 1 Amethyst	        |	Ist Rune|
+| 2 Ist Runes + 1 Sapphire	        |	Gul Rune|
+| 2 Gul Runes + 1 Ruby	            |	Vex Rune|
+| 2 Vex Runes + 1 Emerald	          |	Ohm Rune|
+| 2 Ohm Runes + 1 Diamond	          |	Lo Rune|
+| 2 Lo Runes + 1 Flawless Topaz	    |	Sur Rune|
+| 2 Sur Runes + 1 Flawless Amethyst	|	Ber Rune|
+| 2 Ber Runes + 1 Flawless Sapphire |	Jah Rune|
+| 2 Jah Runes + 1 Flawless Ruby	    |	Cham Rune|
+| 2 Cham Runes + 1 Flawless Emerald	|	Zod Rune|
